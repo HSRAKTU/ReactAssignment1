@@ -20,8 +20,7 @@ GUIDE:
 DEFECTS THAT ARE NOT YET FIXED BECAUSE OF LACK OF TIME :
 - The "Save Changes" button not exactly updates the user info, instead it creates a new user with updated info
 - All fields are required to Save Changes 
-- Few other bugs for example: when you enter wrong credentials in login and switch to signup it unneccesarily shows "Invalid credentials"
-
+- Few other bugs, for example: when you enter wrong credentials in login and switch to signup it unneccesarily shows "Invalid credentials"
 
 
 
