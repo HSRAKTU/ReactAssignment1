@@ -3,7 +3,7 @@
 In the time boundation i had, i achieved following features:
 
 KEY POINTS:
-- The App was created with vite
+- The App was created with vite-react
 - React Router DOM was implemented for routing of pages
 - Context API and LocalStorage were used for storing user data
 
