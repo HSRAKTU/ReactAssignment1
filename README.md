@@ -8,5 +8,6 @@ So in the time boundation i had, i achieved following features:
 - Context API and LocalStorage were used for storing user data
 
 GUIDE:
-1>
+- App will run on Localhost using terminal command in the project folder: 'npm run dev' 
+- 
 
